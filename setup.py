@@ -10,7 +10,7 @@ setup(
     description='Git Config Wrapper',
     author='Zalando',
     author_email='joao.santos@zalando.de',
-    url='https://zalando.de',  # TODO replace with real repository
+    url='https://github.com/zalando/python-gitconfig',
     classifiers=[
         'Programming Language :: Python',
         'Programming Language :: Python :: 2.7',
