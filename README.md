@@ -1,3 +1,5 @@
+**[This project was moved to Gitlab](https://gitlab.com/jmcs/python-gitconfig)**
+
 Git Config
 ==========
 
